@@ -59,10 +59,12 @@ export CROSS_COMPILE=$PWD/arm-gnu-toolchain-15.2.rel1-x86_64-arm-none-linux-gnue
 ```
 
 4. Que fait ```wget``` ?
+	wget permet de recuperer le contenu d'un server web.
 
-5. Que signifient les paramètres ```-xvf``` passés à la commande ```tar```
+6. Que signifient les paramètres ```-xvf``` passés à la commande ```tar```
+   ca permet d'extraire les fichiers de l'archive .tar
 
-6. Quel type d'objet est ```CROSS_COMPILE``` ? Pourquoi est-ce que la ligne finit par un tiret ```-``` ?
+8. Quel type d'objet est ```CROSS_COMPILE``` ? Pourquoi est-ce que la ligne finit par un tiret ```-``` ?
 
 
 ## Construire le bootloader (U-Boot)
