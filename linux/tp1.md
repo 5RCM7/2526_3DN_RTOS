@@ -157,6 +157,7 @@ Vous obtiendrez une adresse MAC selon le format suivant :
 ```
 
 3. Copiez-là et sauvegardez-la quelque part.
+aa:b4:49:3a:a8:6a
 
 4. Ouvrez le fichier suivant ```u-boot/include/configs/socfpga_common.h``` et cherchez les lignes suivantes :
 
